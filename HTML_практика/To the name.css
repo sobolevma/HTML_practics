@@ -1,0 +1,6 @@
+*{display:block;}
+
+first-name {border-left:10px solid red; font-size:30px; color:#hucky; margin-left:150px;font-weight:bold; }
+
+last-name {border-left:10px solid magenta;font-size:30px; margin-left:100px;color:blue;font-weight:bold; }
+third-name {border-left:10px solid cyan; font-size:30px; color:red; margin-left:50px; font-weight:bold; }

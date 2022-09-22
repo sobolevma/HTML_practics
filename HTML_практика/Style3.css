@@ -1,0 +1,27 @@
+			
+	hr.g1{text-align:center; width:100%; size:2px; color:c0e2f9;}	
+	TEXTAREA {
+    background: #4bad89; /* Цвет фона */
+    color: #e9dd21; /* Цвет текста */
+       }
+	   select {
+    background: #9e2767; /* Цвет фона */
+    color: white; /* Цвет текста */
+       }
+	   input.b1 {
+    background: navy; /* Синий цвет фона */ 
+    color: white; /* Белые буквы */ 
+    font-size: 9pt; /* Размер шрифта в пунктах */
+   }
+   p.b2 {
+	color: white; 
+    font-size: 12pt; /* Размер шрифта в пунктах */
+   }
+   label.b3 {
+	color: d9da7c; 
+    font-size: 12pt; /* Размер шрифта в пунктах */
+   }
+   hr.f2{text-align:center ;width:80% ;size:2px ;color:red;}   
+  h2{text-align:center;color:#9aacf7;} 	
+	form{text-align:center;}  
+  body {background-color:#0c7d07 ;}

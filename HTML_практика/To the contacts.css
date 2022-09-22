@@ -1,0 +1,4 @@
+*{display:block;}
+
+telephone {border-left:10px solid red; font-size:30px; color:orange; margin-left:150px;font-weight:bold; }
+email {border-left:10px solid magenta;font-size:30px; margin-left:100px;color:blue;font-weight:bold; }

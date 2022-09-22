@@ -1,0 +1,25 @@
+
+ h1{text-align:center;font-size:30px; color:#9aacf7;font-family:Impact; }
+ol{text-align:left; color:#cd9f9d;size:18px;}
+img.b{
+    width: 50px;
+    height: 50px;
+	margin: auto;
+  }
+div{text-align:right;}
+a.w:link {
+  color: #a10f4a; 
+  border-bottom: 1px dashed; 
+}
+a.w:visited {
+  color: #bb9a02;
+}
+a.w:hover {
+  color: #b813e7; 
+  border-bottom: 1px solid;
+}
+a.w:active {
+  color: #07ed4e; 
+  border-bottom: 1px dashed;}
+  img.img1{width: 50%; height:45px}
+body{background-color:#0c7d07;}

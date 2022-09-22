@@ -1,0 +1,6 @@
+*{display:block;}
+
+house {border-left:10px solid red; font-size:30px; color:green; margin-left:150px;font-weight:bold; }
+
+street {border-left:10px solid magenta;font-size:30px; margin-left:100px;color:red;font-weight:bold; }
+city {border-left:10px solid cyan; font-size:30px; color:orange; margin-left:50px; font-weight:bold; }
